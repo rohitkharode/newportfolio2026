@@ -3,7 +3,7 @@ import ContactButton from './ContactButton';
 import AnimatedText from './AnimatedText';
 
 const ABOUT_TEXT =
-  "Hello, I'm Rohit Kharode, a Comuter Science and Business System student focused on Artificial Intelligence, Business Studies, and software development. I build modern applications, AI driven solutions, and scalable digital experiences that blend functionality with great user experience. With a strong interest in emerging technologies and innovation, I enjoy turning ambitious ideas into real world products that solve meaningful problems. Let's build the future together.";
+  "Hello, I'm Rohit Kharode, a Computer Science and Business System student focused on Artificial Intelligence, Business Studies, and software development. I build modern applications, AI driven solutions, and scalable digital experiences that blend functionality with great user experience. With a strong interest in emerging technologies and innovation, I enjoy turning ambitious ideas into real world products that solve meaningful problems. Let's build the future together.";
 
 const AboutSection = () => {
   return (
